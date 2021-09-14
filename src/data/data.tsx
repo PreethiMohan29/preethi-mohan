@@ -6,8 +6,8 @@ import {
   SkillsProps,
   TimelineProps,
 } from "../types/types";
-export const URL = "https://awesome-portfolio.piyushmehta.com";
-export const NAME = "Piyush Mehta";
+export const URL = "https://awesome-preethi.com";
+export const NAME = "Preethi Mohan";
 
 export const SECTIONS = ["Home", "Experience", "Projects", "Skills"];
 export const HERO_IMAGE = "https://picsum.photos/id/1005/1600/1400";
@@ -19,7 +19,7 @@ export const MENU: MenuProps[] = [
   { key: 4, route: "skills", name: SECTIONS[3] },
 ];
 
-export const GREETING_TEXT = "Hello, There";
+export const GREETING_TEXT = "Hello, people";
 export const GREETING_DESCRIPTION =
   "Busy Developing a side project which will eventually be never done ";
 
@@ -31,7 +31,7 @@ export const EXPERIENCE: TimelineProps[] = [
     logo: "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",
     start: "2015-01-01",
     end: "2016-01-01",
-    description: "I worked on the frontend of Google's new search engine.",
+    description: "I am studying at the SVCE.",
   },
   {
     key: 2,
@@ -40,7 +40,7 @@ export const EXPERIENCE: TimelineProps[] = [
     logo: "https://logos-world.net/wp-content/uploads/2020/04/Facebook-Logo.png",
     start: "2015-01-01",
     end: "2016-01-01",
-    description: "I worked on the frontend of Facebook.",
+    description: "I worked on  Facebook.",
   },
   {
     key: 3,
