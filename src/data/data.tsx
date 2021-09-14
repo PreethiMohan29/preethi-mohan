@@ -64,8 +64,8 @@ export const EXPERIENCE: TimelineProps[] = [
 export const KEYWORDS = [
   "Developer",
   "front end developer based in India",
-  "piyush mehta",
-  "Awesome Portfolio",
+  "PREETHI MOHAN",
+  "JUST NICE",
 ];
 export const IMAGE: ImageType = {
   src: Image,
@@ -76,11 +76,11 @@ export const IMAGE: ImageType = {
 export const projects: ProjectCardProps[] = [
   {
     id: 1,
-    projectName: "Awesome Portfolio",
+    projectName: "MY PROTOTYPE",
     projectDescription:
       "A portfolio of my work, where all the projects I've made are listed. The wesbite is made using latest technologies",
     projectImageLogo: `https://picsum.photos/id/1/600/314`,
-    link: "https://piyushmehta.com",
+    link: "https://.com",
     buttonText: "View Project",
     tech: ["React", "TailwindCSS", "CSS", "Javascript"],
   },
